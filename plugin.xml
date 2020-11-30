@@ -49,12 +49,6 @@
     <!-- FBAudienceNetwork in cocapods is not up to date, so we still download the SDK -->
     <!-- framework src="FBAudienceNetwork.framework" custom="true" /-->
 
-    <header-file src="src/ios/KVOController.h" />
-    <header-file src="src/ios/FBKVOController.h" />
-    <source-file src="src/ios/FBKVOController.m" />
-    <header-file src="src/ios/NSObject+FBKVOController.h" />
-    <source-file src="src/ios/NSObject+FBKVOController.m" />
-
   </platform>
 
 </plugin>
