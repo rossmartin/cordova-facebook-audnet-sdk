@@ -40,8 +40,6 @@
     <framework src="QuartzCore.framework"/>
     <framework src="OpenGLES.framework"/>
     <framework src="Security.framework"/>
-    <framework src="libc++.tbd"/>
-    <framework src="libxml2.tbd"/>
 
     <!-- required cordova 6.4.0 or higher -->
     <framework src="FBAudienceNetwork" type="podspec" spec="~> 6.2.0"/>
