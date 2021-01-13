@@ -42,7 +42,7 @@
     <framework src="Security.framework"/>
 
     <!-- required cordova 6.4.0 or higher -->
-    <framework src="FBAudienceNetwork" type="podspec" spec="~> 6.2.0"/>
+    <framework src="FBAudienceNetwork" type="podspec" spec="~> 6.2.1"/>
 
     <!-- FBAudienceNetwork in cocapods is not up to date, so we still download the SDK -->
     <!-- framework src="FBAudienceNetwork.framework" custom="true" /-->
